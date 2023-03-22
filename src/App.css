@@ -17,4 +17,11 @@ body{
     border-radius: 10px;
     height: calc((100vh - 90px) / 6);
     max-height: calc((100vh - 90px) / 6);
+    overflow: hidden;
 }
+
+.card .front img{
+    display: block;
+    max-width: 100%;
+}
+
