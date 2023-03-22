@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/mems-game-app/static/css/main.7f98a0ff.css",
+    "main.js": "/mems-game-app/static/js/main.52376738.js",
+    "static/js/787.41c24407.chunk.js": "/mems-game-app/static/js/787.41c24407.chunk.js",
+    "static/media/03.jpg": "/mems-game-app/static/media/03.7614b64fdd2e925177b5.jpg",
+    "static/media/04.jpg": "/mems-game-app/static/media/04.b6b76c4bb0e8b64df59e.jpg",
+    "static/media/09.jpg": "/mems-game-app/static/media/09.e72a82e71dc27f03dced.jpg",
+    "static/media/13.jpg": "/mems-game-app/static/media/13.8a4d796f183e7ad54fdc.jpg",
+    "static/media/05.jpg": "/mems-game-app/static/media/05.c961526f010c246da2f7.jpg",
+    "static/media/15.jpg": "/mems-game-app/static/media/15.7b016eae4f3917636c81.jpg",
+    "static/media/14.jpg": "/mems-game-app/static/media/14.3ac829300563f8fe486f.jpg",
+    "static/media/01.jpg": "/mems-game-app/static/media/01.700c1f6f5468a66904ec.jpg",
+    "static/media/08.jpg": "/mems-game-app/static/media/08.c00bd76372f05191efe6.jpg",
+    "static/media/11.jpg": "/mems-game-app/static/media/11.05c135220c83a69bd3b9.jpg",
+    "static/media/06.jpg": "/mems-game-app/static/media/06.758d07b9b692110ea00b.jpg",
+    "static/media/07.jpg": "/mems-game-app/static/media/07.c844d11f4a8f552c2681.jpg",
+    "static/media/12.jpg": "/mems-game-app/static/media/12.ca8c99ab0e0f0a1be753.jpg",
+    "static/media/10.jpg": "/mems-game-app/static/media/10.4c2134c142c6de105299.jpg",
+    "static/media/18.jpg": "/mems-game-app/static/media/18.ca09694b2edf35d7f2dc.jpg",
+    "static/media/02.jpg": "/mems-game-app/static/media/02.75682766479384dc15ae.jpg",
+    "static/media/17.jpg": "/mems-game-app/static/media/17.f8cae4184f514f446553.jpg",
+    "static/media/16.jpg": "/mems-game-app/static/media/16.6363775f7c4d8ac55409.jpg",
+    "index.html": "/mems-game-app/index.html",
+    "main.7f98a0ff.css.map": "/mems-game-app/static/css/main.7f98a0ff.css.map",
+    "main.52376738.js.map": "/mems-game-app/static/js/main.52376738.js.map",
+    "787.41c24407.chunk.js.map": "/mems-game-app/static/js/787.41c24407.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f98a0ff.css",
+    "static/js/main.52376738.js"
+  ]
+}
